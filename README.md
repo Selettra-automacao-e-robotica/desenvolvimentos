@@ -36,6 +36,16 @@
 4. jquery
 5. nipplejs
 
+## COMO USAR
+
+### Setup de PC para usar o sistema:
+
+https://github.com/Selettra-automacao-e-robotica/Clean/blob/Cleanv1/Setup%20de%20PC%20para%20usar%20o%20sistema.pdf
+
+### MANUAL DE APLICAÇÃO DO CLEAN:
+
+https://github.com/Selettra-automacao-e-robotica/Clean/blob/Cleanv1/MANUAL%20DE%20APLICA%C3%87%C3%83O%20DO%20CLEAN%20V1.pdf
+
 ## RESULTADOS OBTIDOS
 
 https://user-images.githubusercontent.com/68859813/152146520-610094e5-8b47-4d73-bb31-ebf06f708a18.mp4
@@ -43,6 +53,12 @@ https://user-images.githubusercontent.com/68859813/152146520-610094e5-8b47-4d73-
 ## NOTA DE ATUALIZAÇÃO
 
 <details><summary>CLEAN V4</summary>
+  
+<ul>
+
+<li> 
+  
+<details><summary>Interface de usuário</summary>
 
 <h2>Adição de feedback de status:</h2>
   
@@ -97,7 +113,23 @@ https://user-images.githubusercontent.com/68859813/152146520-610094e5-8b47-4d73-
  - ![7f00ff](https://user-images.githubusercontent.com/72092263/150833241-fb4ccb08-5f72-4519-99b2-5244171cc106.png) Em gravação;
  
  -  ![ff0000](https://user-images.githubusercontent.com/72092263/151424795-dfc533b8-f9f8-4fe0-91da-165cd81e0be8.png) Falha
+
+</details>
+
+</li>
  
+<li>
+  
+<details><summary>feedback visual no robô</summary>
+
+https://user-images.githubusercontent.com/68859813/152146520-610094e5-8b47-4d73-bb31-ebf06f708a18.mp4
+
+</details>
+ 
+</li>
+  
+  
+</ul>
   
 </details>
 
