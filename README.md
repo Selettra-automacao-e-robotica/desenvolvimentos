@@ -34,15 +34,6 @@
 4. jquery
 5. nipplejs
 
-## COMO USAR
-
-### Setup de PC para usar o sistema:
-
-https://github.com/Selettra-automacao-e-robotica/Clean/blob/Cleanv1/Setup%20de%20PC%20para%20usar%20o%20sistema.pdf
-
-### MANUAL DE APLICAÇÃO DO CLEAN:
-
-https://github.com/Selettra-automacao-e-robotica/Clean/blob/Cleanv1/MANUAL%20DE%20APLICA%C3%87%C3%83O%20DO%20CLEAN%20V1.pdf
 
 ## RESULTADOS OBTIDOS
 
