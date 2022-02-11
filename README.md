@@ -3,8 +3,6 @@
 ## DESCRICÃO
 #### Pacote de navegação ROS do tipo ponto a ponto, o robô inicia no ponto zero vai para o ponto 1 para coletar carga, aguarda validação de usuário, após validado vai ao ponto 2 para deixar carga e aguarga validação para retornar ao ponto 1 para pegar nova carga.
 
-#### Repositório local:  //192.168.0.1/40 - Engenharia/10 - P&D/Nav_Natural/Software/repositorio_clean/
-
 ## PRÉ REQUISITOS
 
 ### Geral:
